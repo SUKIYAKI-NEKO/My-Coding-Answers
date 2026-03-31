@@ -1,4 +1,9 @@
-﻿#include <iostream>
+﻿/*
+題目:b266. 矩陣翻轉
+來源:https://zerojudge.tw/ShowProblem?problemid=b266
+描述:矩陣的旋轉與翻轉
+*/
+#include <iostream>
 #include<algorithm>
 #include<string>
 using namespace std;
