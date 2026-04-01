@@ -1,6 +1,7 @@
 /*
 題目:傳送點
 來源:https://zerojudge.tw/ShowProblem?problemid=f166
+內容:DFS
 */
 
 #include<iostream>
