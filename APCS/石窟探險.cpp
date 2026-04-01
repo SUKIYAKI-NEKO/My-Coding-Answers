@@ -2,6 +2,7 @@
 題目:石窟探險
 來源:https://zerojudge.tw/ShowProblem?problemid=j124
 內容:DFS、樹
+AC (40ms, 356KB)
 */
 
 #include<iostream>

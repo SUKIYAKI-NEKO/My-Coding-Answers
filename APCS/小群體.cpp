@@ -2,6 +2,7 @@
 題目:小群體
 來源:https://zerojudge.tw/ShowProblem?problemid=c291
 內容:併查集(Union and Find) 
+AC (60ms, 680KB)
 */
 
 #include <iostream>

@@ -2,7 +2,9 @@
 題目:b266. 矩陣翻轉
 來源:https://zerojudge.tw/ShowProblem?problemid=b266
 描述:矩陣的旋轉與翻轉
+AC (2ms, 832KB)
 */
+
 #include <iostream>
 #include<algorithm>
 #include<string>

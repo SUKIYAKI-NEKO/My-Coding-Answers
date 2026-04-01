@@ -1,6 +1,7 @@
 /*
 題目:人口遷移
 來源:https://zerojudge.tw/ShowProblem?problemid=f313
+AC (4ms, 432KB)
 */
 
 #include<iostream>

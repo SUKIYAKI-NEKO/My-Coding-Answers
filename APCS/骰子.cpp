@@ -1,6 +1,7 @@
 /*
 題目:骰子
 來源:https://zerojudge.tw/ShowProblem?problemid=f580
+AC (8ms, 328KB)
 */
 
 #include<iostream>

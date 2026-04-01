@@ -2,6 +2,7 @@
 題目:貨物分配
 來源:https://zerojudge.tw/ShowProblem?problemid=f163
 內容:樹
+AC (95ms, 4.2MB)
 */
 
 #include<iostream>

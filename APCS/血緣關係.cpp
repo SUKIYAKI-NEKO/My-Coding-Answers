@@ -2,6 +2,7 @@
 題目:血緣關係
 來源:https://zerojudge.tw/ShowProblem?problemid=b967
 內容:樹
+AC (59ms, 7.1MB)
 */
 
 #include<iostream>

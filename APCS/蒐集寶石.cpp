@@ -1,6 +1,7 @@
 /*
 題目:蒐集寶石
 來源:https://zerojudge.tw/ShowProblem?problemid=o712
+AC (9ms, 384KB)
 */
 
 #include<iostream>

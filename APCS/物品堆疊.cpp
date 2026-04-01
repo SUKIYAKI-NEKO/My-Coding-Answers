@@ -2,6 +2,7 @@
 題目:物品堆疊
 來源:https://zerojudge.tw/ShowProblem?problemid=c471
 內容:Greedy
+AC (0.1s, 1.8MB)
 */
 
 #include<iostream>

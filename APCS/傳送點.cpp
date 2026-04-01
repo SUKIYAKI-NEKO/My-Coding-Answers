@@ -2,6 +2,7 @@
 題目:傳送點
 來源:https://zerojudge.tw/ShowProblem?problemid=f166
 內容:DFS
+AC (0.1s, 8.8MB)
 */
 
 #include<iostream>

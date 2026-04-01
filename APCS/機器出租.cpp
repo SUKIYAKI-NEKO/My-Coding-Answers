@@ -2,6 +2,7 @@
 題目:機器出租
 來源:https://zerojudge.tw/ShowProblem?problemid=j608
 內容:Greedy
+AC (55ms, 1.1MB)
 */
 
 #include<iostream>

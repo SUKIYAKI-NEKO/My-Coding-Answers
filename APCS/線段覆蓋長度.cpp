@@ -2,6 +2,7 @@
 題目:b966. 線段覆蓋長度
 來源:https://zerojudge.tw/ShowProblem?problemid=b966
 內容:
+AC (38ms, 484KB)
 */
 
 #include<iostream>

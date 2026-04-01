@@ -1,6 +1,7 @@
 /*
 題目:數字龍捲風 
 來源:https://zerojudge.tw/ShowProblem?problemid=c292
+AC (3ms, 796KB)
 */
 
 #include<iostream>

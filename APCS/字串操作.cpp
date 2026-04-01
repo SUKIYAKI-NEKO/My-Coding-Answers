@@ -1,6 +1,7 @@
 /*
 題目:字串操作
 來源:https://zerojudge.tw/ShowProblem?problemid=q182
+AC (2ms, 348KB)
 */
 
 #include<iostream>

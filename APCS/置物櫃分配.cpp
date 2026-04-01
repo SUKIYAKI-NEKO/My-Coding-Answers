@@ -2,6 +2,7 @@
 題目:置物櫃分配
 來源:https://zerojudge.tw/ShowProblem?problemid=e465
 內容:DP
+AC (13ms, 708KB)
 */
 
 #include<iostream>
