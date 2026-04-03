@@ -18,7 +18,7 @@ public:
         return {};
     }
 };
-//Runtime:144ms  Memory:14.15MB
+//Runtime: 144 ms  Memory: 14.15 MB
 
 //second:
 class Solution {
@@ -33,4 +33,20 @@ public:
         return {};
     }
 };
-//Runtime:1ms  Memory:14.89MB
+//Runtime: 1 ms  Memory: 14.89 MB
+
+//third:
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int,int> nums_map;
+        for(int i=0;i<nums.size();i++){
+            int com=target - nums[i];
+            auto t=nums_map.find(com);
+            if(t!=nums_map.end())return {nums_map[com],i};
+            nums_map[nums[i]]=i;
+        }
+        return {};
+    }
+};
+//Runtime: 0 ms  Memory: 14.89 MB
