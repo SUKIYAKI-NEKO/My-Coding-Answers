@@ -9,7 +9,6 @@ I use this repository to record my learning progress, review algorithms, and imp
 * **Language:** C++
 * **Main Topics:** Data Structures, Algorithms, Problem Solving
 * **Purpose:** Learning, practice, and recording solutions
-* **Status:** Continuously updating
 
 ##  Problem Sources
 
