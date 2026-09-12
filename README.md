@@ -30,9 +30,7 @@ The purpose of using AI is to support my learning and understanding rather than 
 
 They may be used for:
 * Understanding programming concepts
-* Explaining unfamiliar syntax or algorithms
 * Debugging and identifying errors
-* Providing hints when I am stuck
 * Reviewing and discussing possible solutions
 * Exploring more efficient or alternative approaches
 
