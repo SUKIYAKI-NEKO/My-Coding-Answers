@@ -15,6 +15,7 @@ I use this repository to record my learning progress, review algorithms, and imp
 Currently practicing problems from:
 
 * [LeetCode](https://leetcode.com/)
+* [Leetcode account](https://leetcode.com/u/chinose/)
 * [ZeroJudge](https://zerojudge.tw/)
 
 
